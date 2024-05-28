@@ -26,11 +26,8 @@ Try the live demo here: https://travel-planner-lfz.herokuapp.com/
 * User can add a traveler to the trip (name, whether the traveler is attending the trip, and some notes about the traveler)
 * User can view the list of travelers
 
-## Preview
-<img src="server/public/images/preview1.png" width="550">
-<img src="server/public/images/preview2.png" width="550">
 
-## Planned Additions
+
 This application has MANY features to be added. As I am learning more everyday, the UI/UX will be improved on. I also want to add a page where the user is able to see what is planned for the trip based on the day. For example, "On day 'x', this activity is planned or hotel reservation is planned, etc.
 * User can put a completed trip in an archive section to be able to refer back to it
 * User can delete a trip
